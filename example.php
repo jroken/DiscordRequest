@@ -29,5 +29,4 @@ $data = [
 
 
 httpPost('http://haqancoder.xyz/api/', $data);
-echo "Successful - Başarılı";
 ?>
