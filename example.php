@@ -28,5 +28,5 @@ $data = [
 ];
 
 
-httpPost('http://haqancoder.xyz/api/', $data);
+httpPost('http://haqan.dev/api/', $data);
 ?>
